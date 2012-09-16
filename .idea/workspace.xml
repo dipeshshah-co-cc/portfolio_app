@@ -28,19 +28,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/investments/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="44" selection-start="312" selection-end="312" vertical-scroll-proportion="0.48141593">
+            <state line="16" column="44" selection-start="312" selection-end="312" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="investment.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="investment.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/investment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+            <state line="7" column="23" selection-start="201" selection-end="201" vertical-scroll-proportion="0.20135364">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,8 +81,8 @@
         <option value="$PROJECT_DIR$/app/views/investments/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/models/portfolio.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/investment.rb" />
         <option value="$PROJECT_DIR$/app/views/investments/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/models/investment.rb" />
       </list>
     </option>
   </component>
@@ -124,6 +133,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portfolio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,16 +508,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/investment.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/investments/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+        <state line="16" column="44" selection-start="312" selection-end="312" vertical-scroll-proportion="-10.461538">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/investments/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="312" selection-end="312" vertical-scroll-proportion="0.48141593">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/investment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="201" selection-end="201" vertical-scroll-proportion="0.20135364">
           <folding />
         </state>
       </provider>
