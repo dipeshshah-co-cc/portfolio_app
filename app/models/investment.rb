@@ -15,4 +15,12 @@ class Investment < ActiveRecord::Base
       errors.add :cost, 'Should be +ve'
     end
   end
+
+  def worth_at_cost
+    cost*qty
+  end
+
+  def worth_today
+    company.price * qty
+  end
 end
